@@ -12,3 +12,5 @@ When loaded onto the ESP8266 (NodeMCU in my case), it will monitor a pin for pow
 Data is retreived in raw JSON format currently just to show it is there.
 
 ![Fritzing](https://github.com/Protospace/IoT_Timer/blob/master/iot-esp8266_bb.png?raw=true)
+
+![Photo](https://github.com/Protospace/IoT_Timer/blob/master/iot__arduino__esp8266.jpg?raw=true)
